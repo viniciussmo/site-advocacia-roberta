@@ -23,7 +23,7 @@ O site foi criado para:
 
 ## 📸 Prints
 
-![Home](link-da-screenshot-ou-coloca-imagem-aqui)
+![Home](screenshots/Home.jpeg)
 ![Sobre](link-de-outra-screenshot-aqui)
 
 ---
