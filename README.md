@@ -18,7 +18,7 @@ O site foi criado para:
 ## 🛠 Tecnologias usadas
 - 🔹 Wix (editor visual)
 - 🔹 HTML/CSS/JS gerado automaticamente pelo Wix
-
+  
 ---
 
 ## 📸 Prints
