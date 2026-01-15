@@ -24,7 +24,14 @@ O site foi criado para:
 ## 📸 Prints
 
 ![Home](screenshots/Home.jpeg)
-![Sobre](link-de-outra-screenshot-aqui)
+
+![História](screenshots/Historia.jpeg)
+
+![Serviços](screenshots/Serviços.jpeg)
+
+![Blog](screenshots/Blog.jpeg)
+
+![Contato](screenshots/Contato.jpeg)
 
 ---
 
